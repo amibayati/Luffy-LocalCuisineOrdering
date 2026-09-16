@@ -70,14 +70,11 @@ Planned next steps for turning the design into a working product might include:
 
 If you’re interested in helping define or execute the implementation, please open a discussion or issue.
 
-## Contributing
-Contributions to improve the design artifacts or begin implementation are welcome.
-- Propose changes by opening an issue describing your suggestion
-- If contributing designs, attach updated diagrams or link to design files
-- Keep artifact naming consistent and place files at the repository root unless there’s an agreed structure
+## Acknowledgments
+This project was developed as a university coursework project by **[Your Name]**.
 
-## License
-- Documents and media (PDFs, images, video) are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). See [LICENSE](./LICENSE).
+Special thanks to:
+- **[Pegah Moradi]** — .
+- **[Simin Kashfi]** — 
 
-By contributing to this repository, you agree that your contributions will be licensed under the same terms.
     
