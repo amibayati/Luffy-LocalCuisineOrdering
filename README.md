@@ -9,9 +9,7 @@ LocalCuisineOrdering is a system concept that streamlines the ordering process f
 - [Repository Contents](#repository-contents)
 - [How to Use These Materials](#how-to-use-these-materials)
 - [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Overview
 This repository documents the system analysis and design for a Local Cuisine Ordering platform. The artifacts can be used to:
