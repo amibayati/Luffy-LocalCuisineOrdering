@@ -71,10 +71,10 @@ Planned next steps for turning the design into a working product might include:
 If you’re interested in helping define or execute the implementation, please open a discussion or issue.
 
 ## Acknowledgments
-This project was developed as a university coursework project by **[Your Name]**.
+This project was developed as a university coursework.
 
 Special thanks to:
-- **[Pegah Moradi]** — .
-- **[Simin Kashfi]** — 
+- **[Pegah Moradi]** 
+- **[Simin Kashfi]** 
 
     
